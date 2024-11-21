@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am RizalAziz, and I work at Universiti of [BIDOR](https://www.youtube.com/channel/UC88JPi49H9MYDbpsjPjxVGw)
+I am RizalAziz, and I work at Universiti of Kuala Lumpur 
 
 ## Contributing
 
