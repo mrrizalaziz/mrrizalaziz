@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am RizalAziz, and I work at Universiti of Kuala Lumpur 
+I am RizalAziz, and I'm currently teach Software Engineering at Universiti Kuala Lumpur, UniKL 
 
 ## Contributing
 
